@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/ryanhburbank/Desktop/exercism/javascript/nucleotide-count'
+let g:netrw_dirhist_2='/home/ryanhburbank/Desktop/exercism/javascript/beer-song'
+let g:netrw_dirhist_3='/home/ryanhburbank/Desktop/exercism/javascript'
+let g:netrw_dirhist_4='/home/ryanhburbank/Desktop/exercism/javascript/nucleotide-count'
+let g:netrw_dirhist_5='/home/ryanhburbank/algo/princeton101/coding/lecture_examples'
+let g:netrw_dirhist_6='/home/ryanhburbank/algo/princeton101'
+let g:netrw_dirhist_7='/home/ryanhburbank/algo/princeton101/coding'
+let g:netrw_dirhist_8='/home/ryanhburbank/algo/princeton101/coding/lecture_examples'
+let g:netrw_dirhist_9='/home/ryanhburbank/algo/princeton101'
